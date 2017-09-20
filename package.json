@@ -2,7 +2,7 @@
   "name": "life-of-paolo",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Carlos Garcia",
+  "author": "carlos garcia",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
